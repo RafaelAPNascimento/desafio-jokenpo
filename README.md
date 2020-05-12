@@ -1,4 +1,6 @@
+Projeto compilado no Java 11
 # Jokenpo API
+
 Rodar os testes:
         
          ./gradlew clean test --info
